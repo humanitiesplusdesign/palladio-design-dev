@@ -1,0 +1,15 @@
+unique/numeric	F4D23B
+unique/text	DBBC34
+numeric	F18F2B
+text/string	BB5A1B
+binary / 0	9988C0 
+binary /1	CD88BD
+ordinal-numeric	767A79
+nominal-text	53585F
+coordinates	A1C088
+YYYYMMDD	577AA4 
+YYYYMM	88A1C0
+YYYY	A9BBD2
+url	C0A788
+null	FFFFFF
+mismatched value	EC5D57
